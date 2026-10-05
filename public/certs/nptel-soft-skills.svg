@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" width="1200" height="760">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fbfbfd"/>
+      <stop offset="1" stop-color="#eef6ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="760" fill="#f5f7fb"/>
+  <g transform="translate(120,90)">
+    <rect x="0" y="0" width="960" height="580" rx="24" fill="url(#g)" stroke="#d7dbe3" stroke-width="3"/>
+    <text x="480" y="120" text-anchor="middle" font-size="50" font-family="Georgia, serif" fill="#2d2d2d">Srinivasa Ramanujan Mathematical Competition</text>
+    <text x="480" y="190" text-anchor="middle" font-size="44" font-family="Georgia, serif" fill="#2d2d2d">Level 3</text>
+    <text x="480" y="300" text-anchor="middle" font-size="36" font-family="Georgia, serif" fill="#3d3d3d">Sanjiv Kumar A</text>
+    <text x="480" y="360" text-anchor="middle" font-size="28" font-family="Georgia, serif" fill="#4b4d51">Advanced Recognition</text>
+    <rect x="180" y="430" width="600" height="6" fill="#d7d8dd"/>
+    <text x="480" y="500" text-anchor="middle" font-size="24" font-family="Georgia, serif" fill="#5a5e67">Official Recognition</text>
+  </g>
+</svg>
